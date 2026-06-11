@@ -28,7 +28,7 @@ pipeline {
 
     environment {
         // Define environment variables here if needed
-        IMAGE_NAME = "atharvazende/flask-app"
+        IMAGE_NAME = "atharvazende2/flask-app"
         IMAGE_TAG = "v1"
     }
 
